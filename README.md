@@ -26,6 +26,7 @@ Python 3.x
 * pandas
 * requests
 * beautifulsoup4
+* 
 Make sure you have Python 3 installed, then install the required packages.
 
 The top 10 richest billionaires, along with their company, executive name, net worth, and country, will be displayed in the console.
