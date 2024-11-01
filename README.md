@@ -8,12 +8,14 @@ This project uses Python's requests and BeautifulSoup libraries to fetch and par
 
 ## Features
 Fetches and parses billionaire data from the web.
+
 Extracts relevant details including:
 * Rank
 * Company
 * Executive Name
 * Net Worth
 * Country
+  
 Cleans and processes the net worth data for sorting.
 Sorts by net worth in descending order to find the top 10 richest billionaires.
 Outputs the top 10 results to the console and saves them to a CSV file.
